@@ -9,6 +9,11 @@ The user is able to view memes from different years, select them into a capsule,
 
 ## Here is how to execute the MVP
 1. Clone my repository in a location of your choice
+
+2. ```sh
+   git clone https://github.com/github_username/repo_name.git
+   ```
+
 git clone https://github.com/syrcelina/celina-syafril-tbii-exam.git
 
 2. Change the directory:
