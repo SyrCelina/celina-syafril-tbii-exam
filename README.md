@@ -26,4 +26,52 @@ Windows:
 ```sh
 python app.py
  ```
+## If this does not work:
+
+1. Download Pycharm
+   
+2. Open your terminal and locate your tech basics 2 folder from your command line
+   
+3. Create a new directory called Rewindproto in the folder
+    
+4. Change the directory to your Soteriaproto folder and doublecheck by using cd/pwd
+   
+5. Within that folder create another folder titled Images and add the images from the folder, do NOT rename them
+
+6. Now within the Rewindproto folder create and activate a virtual environment called Rewindenv
+
+Create your environment by typing in 
+
+mac
+```sh
+virtualenv -p python Rewindenv
+ ```
+windows
+```sh
+python -m venv Rewindenv
+ ```
+
+Activate by typing in 
+mac
+```sh
+source SOTERIA/bin/activate
+ ```
+windows
+```sh
+ \SOTERIA\scripts\activate 
+ ```
+
+7. Now check the list of packages in the new environment by typing in pip freeze
+   
+8. The ones that need to be installed in the SOTERIA environment are tkinter and pillow, therefore install by typing in pip3 install tk pillow
+   
+9. Next, open up your Pycharm and open up a new project/folder: Tech Basics 2(the general folder in which we have everything stored)
+    
+10. Create a Python file under the Rewindproto folder and rename it app.py
+    
+11. Copy the code from app.py from this repository into the new file and run it
+     
+12. Either through the play button at the top of the screen or by typing in python app.py into the terminal at the left of the screen.
+
+Tip for when running the GUI: while the second GUI window can only be accessed through the Homepage button the only Username logins that work are “celina” and “sarah”.
 
