@@ -9,13 +9,15 @@ The user is able to view memes from different years, select them into a capsule,
 
 ## Here is how to execute the MVP
 1. Clone my repository in a location of your choice
-
+```sh
 git clone https://github.com/syrcelina/celina-syafril-tbii-exam.git
-
+ ```
 2. Change the directory:
+```sh 
 cd celina-syafril-tbii-exam
+ ```
+3. Run the code
 
-3.Run the code
 Mac:
 ```sh
 python3 app.py
