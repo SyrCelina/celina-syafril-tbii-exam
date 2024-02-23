@@ -34,7 +34,7 @@ python app.py
    
 3. Create a new directory called Rewindproto in the folder
     
-4. Change the directory to your Soteriaproto folder and doublecheck by using cd/pwd
+4. Change the directory to your Rewindproto folder and doublecheck by using cd/pwd
    
 5. Within that folder create another folder titled Images and add the images from the folder, do NOT rename them
 
