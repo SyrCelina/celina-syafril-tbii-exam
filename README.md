@@ -8,7 +8,7 @@ My MVP aims to encapsulate the feeling of nostalgia and older memes by offering 
 The user is able to view memes from different years, select them into a capsule, save and lock the capsule for future digital digging. My project was born from the idea of a fun MVP that honors the new age rather than a sustainable one.
 
 ## Here is how to execute the MVP
-1. Clone my repository in a location of your choice
+1. Clone my repository in a location of your choice (in your terminal)
 ```sh
 git clone https://github.com/syrcelina/celina-syafril-tbii-exam.git
  ```
